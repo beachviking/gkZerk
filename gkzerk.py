@@ -136,7 +136,7 @@ def usage():
 
 
 if __name__ == '__main__':
-    argv = ''
+    argv = 'tutorial-map.json'
     try:
         argv = sys.argv[1]
     except:
